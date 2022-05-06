@@ -1,5 +1,5 @@
 # Focus Timer 1.0
-Cronômetro estilo Pomodoro com música de fundo para foco nos estudos. Desenvolvido através das aulas do Explorer da Rocketseat
+Cronômetro estilo Pomodoro com música de fundo para foco nos estudos. Avançando no JS e aplicando os conceitos de modulação, factory e injeção de dependências. Desenvolvido através das aulas do Explorer da Rocketseat.
 
 ## Tecnologias Utilizadas
 HTML, CSS e JavaScript
